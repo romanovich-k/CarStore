@@ -47,7 +47,7 @@ $('html,body').animate(
 //Slideshow bg
 
 $('.banner').fullClip({
-  images: ['../img/banner5.jpg','../img/banner.png', '../img/banner3.jpg','../img/banner6.jpg','../img/banner2.jpg'],
+  images: ['img/banner5.jpg','img/banner.png', 'img/banner3.jpg','img/banner6.jpg','img/banner2.jpg'],
   transitionTime: 2200,
   wait: 4000
 });
